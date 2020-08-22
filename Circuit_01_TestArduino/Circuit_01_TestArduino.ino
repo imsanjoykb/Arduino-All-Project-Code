@@ -15,7 +15,7 @@
 
 void setup()
 {
-  pinMode(13, OUTPUT);
+  pinMode(13, OUTPUT);      //Setting pin no 13 as the output pin I.e. where we are going to connect our LED
 }
 
 void loop()
